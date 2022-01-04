@@ -18,7 +18,7 @@ const date = new Date();
 var currentHour = date.getHours();
 console.log(date.getHours());
 
-currentHour = 19;
+//currentHour = 19;
 
 if (currentHour < 12) {
   salutationMessage = "Good morning!";
